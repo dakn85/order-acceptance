@@ -48,3 +48,4 @@ github.com/knippqai/securities-order-acceptance
 
 The platform imports the acceptance repository, reads `manifest.json`, indexes `specs/` and `tests/`, then runs the selected revision against the demo application's compose environment. This tests repository discovery, stable story/suite metadata and generic Browser/REST/Kafka/Avro evidence without coupling acceptance assets to application code.
 # order-acceptance-
+# order-acceptance-

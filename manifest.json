@@ -1,0 +1,11 @@
+{
+  "Language": "ts",
+  "Plugins": ["html-report", "xml-report"],
+  "Platform": {
+    "projectType": "gauge-acceptance-contract",
+    "storyIds": ["ORD-101"],
+    "suiteId": "securities-order-regression",
+    "environment": "local",
+    "evidence": ["browser", "rest", "kafka", "avro"]
+  }
+}
