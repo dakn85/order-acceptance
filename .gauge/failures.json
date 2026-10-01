@@ -1,6 +1,11 @@
 {
 	"Args": [
-		"run"
+		"run",
+		"--simple-console"
 	],
-	"FailedItems": []
+	"FailedItems": [
+		"specs/order-lifecycle.spec:20",
+		"specs/order-lifecycle.spec:3",
+		"specs/order-lifecycle.spec:12"
+	]
 }

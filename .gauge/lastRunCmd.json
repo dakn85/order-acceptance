@@ -1,5 +1,6 @@
 [
 	"gauge",
 	"run",
+	"--simple-console",
 	"specs"
 ]
